@@ -38,10 +38,9 @@ Within the Python shell, run the command : __from wallet import *__. This will a
 
 Result of my wallet derive : 
 
-![wallet_object](./images/wallet_terminal.png)
+![wallet_object](./images/Wallet_terminal.png)
 
-
-### Bitcoin Testnet transaction
+## Bitcoin Testnet transaction
 Remember you need to first fund your first addres using testnetfaucets. 
 
  __Bitcoin Testnet Transaction id :__ <br>fa54fb9d10f167f0f7590a62bf4c2e8f6b76a91310473a3117f21d52f5a3fddd
@@ -56,7 +55,7 @@ To find the transaction confirmation you can use any BTCTEST chain block explore
 ![BTCTEST_tx](./images/BTCTEST_tx.png)
 
  
-### Local PoA Ethereum test transaction
+## Local PoA Ethereum test transaction
 
 You need to first launch your local network and fund one of the new addresses derived above as it will be teh first one you connect them to this network. 
 
