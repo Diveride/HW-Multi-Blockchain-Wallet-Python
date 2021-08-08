@@ -1,4 +1,5 @@
 # HW-Multi-Blockchain-Wallet-Python
+![intro_image](./images/newtons-coin-cradle.jpg)
 
 ## Background
 In this project we want to leverage how HD wallets work to create a multi-blockain wallet. Cryptocurrency/tokens share within investors portfolios is growing and the need to have a wallet able to read and transact 100s of coins became mandatory to be involved in this market. 
